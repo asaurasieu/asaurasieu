@@ -32,7 +32,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 
-## 👾 Languages & Frameworks I Code In
+## 👾 Languages & Frameworks 
 
 <p align="center">
   <a href="https://skillicons.dev">
