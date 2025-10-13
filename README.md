@@ -36,9 +36,9 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,nodejs,py,react,ros,sklearn,pytorch,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,vim,npm,opencv&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
   </a>
 </p>
 
@@ -46,9 +46,9 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,eclipse,figma,firebase,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,vim,aws,azure,bash,eclipse,figma,firebase,flask,nodejs&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,gradle,nginx,powershell,replit,sublime,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,powershell,replit,sublime,vscode&theme=dark" />
   </a>
 </p>
 
