@@ -18,7 +18,7 @@
 
 👋 Hey there! I'm Ana, a Spanish Computer Scientist  specializing in Artificial Intelligence and Cybersecurity. I love technology in general and a good challenge. I'm here to sharpen my technical skills and become the professional I've always dreamed of being.
 
-You'll find me experimenting, learning, sharing what I know, and yeah, breaking things occasionally (it's all part of the process). ☠️
+You'll find me experimenting, learning, sharing what I know, and yeah, breaking things occasionally (it's all part of the process) ☠️
 
 When I'm not glued to a computer screen, I'm perfecting my Karate techniques, on a tennis court, catching waves on the south coast of France, or rewatching classic sci-fi movies for the hundredth time.
 
@@ -31,3 +31,45 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 </div>
 
 ---
+
+## 👾 Languages & Frameworks I Code In
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,nodejs,py,react,ros,sklearn,pytorch,vue&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,vim,npm,opencv&theme=dark" />
+  </a>
+</p>
+
+## ⚙️ Tools, Platforms & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,eclipse,figma,firebase,flask&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,gradle,nginx,powershell,replit,sublime,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail&theme=dark" />
+  </a>
+  <br>
+  <a href="www.linkedin.com/in/anasauras"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/ana_s_f"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="mailto:anasauras4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+</p>
+
+
+
+
+
+
+
+
