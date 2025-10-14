@@ -32,14 +32,22 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 ### 👽 Cyber Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="right">
-  <a href="https://tryhackme.com/p/anasauras"> 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
-  </a>
+<p align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&langs_count=6" 
+        alt="Top Languages" 
+        width="45%" 
+        style="display: inline-block;"
+    />
+    
+    <a href="https://tryhackme.com/p/anasauras" style="display: inline-block;"> 
+        <img 
+            src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" 
+            alt="TryHackMe Badge" 
+            width="45%" 
+            style="display: inline-block;"
+        />
+    </a>
 </p>
 
 ---
