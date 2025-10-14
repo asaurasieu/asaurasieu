@@ -77,7 +77,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
                     />
                 </a>
             </td>
-            <td align="center" valign="top" style="padding-left: 20px;">
+            <td align="center" valign="bottom" style="padding-left: 20px;">
                 <img 
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" 
                     alt="Top Languages" 
