@@ -53,7 +53,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=gcp,git,github,sublime,vscode&theme=dark" />
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
