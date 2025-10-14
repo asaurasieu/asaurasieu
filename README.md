@@ -4,13 +4,13 @@
   
   <br>
   <br>
-
+  
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com font=BBH+Sans+Bogle&size=28&letterSpacing=0.1px&duration=5010&pause=1000&color=FA32DE&width=435&lines=Computer+Science+%2F+AI+%2F+Cybersecurity;Karate+1st+Dan+Black+Belt+AND+Sports+Lover" 
-      alt="Typing SVG"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&size=28&letterSpacing=0.5px&duration=5010&pause=1000&color=FA32DE&width=435&lines=Computer+Science+%2F+AI+%2F+CyberSecurity;1st+Dan+Black+Belt.+I+love+sports+%3C3" 
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
 
