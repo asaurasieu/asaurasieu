@@ -26,6 +26,9 @@ My ultimate goal? Fusing my technical skills with my analytical mindset to contr
 
 Want to join me on this journey? Let's build something amazing together. 🔥
 
+---
+<br>
+
 
 ### 👾 Languages & Frameworks 
 
@@ -50,24 +53,13 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 ---
 
 ### 👽 Cyber Metrics
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img 
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasaurasieu&layout=compact&theme=dark&langs_count=6" 
-                    alt="Top Languages" 
-                />
-            </td>
-           <td align="center">
-                <a href="https://tryhackme.com/p/anasauras"> 
-                    <img 
-                        src="https://tryhackme-badge.get-into.tech/anasauras" 
-                        alt="TryHackMe Badge" 
-                    />
-                </a>
-            </td>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieuE&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
+  
+  <a href="https://tryhackme.com/p/anasauras"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 ---
 
 ### Project Portfolio 
