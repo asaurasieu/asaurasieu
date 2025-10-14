@@ -28,6 +28,8 @@ My ultimate goal? Fusing my technical skills with my analytical mindset to contr
 
 Want to join me on this journey? Let's build something amazing together. 🔥
 
+<br> 
+
 <div align="center">
   <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
 </div>
