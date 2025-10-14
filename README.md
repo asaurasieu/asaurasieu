@@ -4,13 +4,13 @@
   
   <br>
   <br>
-
+  
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&size=28&letterSpacing=0.1px&duration=5010&pause=1000&color=FA32DE&width=435&lines=Computer+Science+%2F+AI+%2F+Cybersecurity;Karate+1st+Dan+Black+Belt+AND+Sport+Lover" 
-      alt="Typing SVG"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&size=28&letterSpacing=0.5px&duration=5010&pause=1000&color=FA32DE&width=435&lines=Computer+Science+%2F+AI+%2F+CyberSecurity;1st+Dan+Black+Belt.+I+love+sports+%3C3" 
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
 
@@ -37,14 +37,15 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 <br> 
 
 ---
-
+## Tech Stack 
 ### 👾 Languages & Frameworks 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
   </a>
 </p>
 
@@ -52,15 +53,16 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,vim,aws,azure,bash,eclipse,figma,firebase,flask,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,powershell,replit,sublime,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,sublime,vscode&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
   </a>
 </p>
 
 ---
 
-### Project Portfolio 
+### Main Projects 
 
 ---
 
