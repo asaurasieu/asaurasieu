@@ -44,9 +44,9 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue&theme=dark" />
     <br>
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
-    <br>
     <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
+    <br>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
   </a>
 </p>
 
