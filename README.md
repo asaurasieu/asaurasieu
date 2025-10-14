@@ -44,7 +44,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" 
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
   </a>
 </p>
@@ -55,7 +55,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,vim,aws,azure,bash,eclipse,figma,firebase,flask,nodejs&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,powershell,replit,sublime,vscode&theme=dark" 
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,powershell,replit,sublime,vscode&theme=dark" />
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
   </a>
 </p>
