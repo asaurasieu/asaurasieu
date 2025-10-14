@@ -54,7 +54,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ### 👽 Cyber Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieuE&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
   
   <a href="https://tryhackme.com/p/anasauras"> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
