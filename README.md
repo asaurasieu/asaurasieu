@@ -19,7 +19,7 @@
 
 You'll find me experimenting, learning, sharing what I know, and yeah, breaking things occasionally (it's all part of the process) ☠️
 
-When I'm not glued to a computer screen, I'm perfecting my Karate techniques, on a tennis court, catching waves on the south coast of France, or rewatching classic sci-fi movies for the hundredth time.
+When I'm not glued to a computer screen, I'm perfecting my karate techniques, on a tennis court, catching waves on the south coast of France, or rewatching classic sci-fi movies for the hundredth time.
 
 My ultimate goal? Contribute to a safer, smarter digital world. 😜
 
