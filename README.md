@@ -31,14 +31,12 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=dark&line_height=27&hide_title=true&layout=compact" alt="GitHub Stats" />
-  
+### 👽 Cyber Metrics
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://tryhackme.com/p/anasauras"> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
   </a>
@@ -46,7 +44,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 
-## 👾 Languages & Frameworks 
+### 👾 Languages & Frameworks 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +54,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   </a>
 </p>
 
-## ⚙️ Tools, Platforms & Cloud
+### ⚙️ Tools, Platforms & Cloud
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -68,11 +66,11 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 
-## Project Portfolio 
+### Project Portfolio 
 
 
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://es.linkedin.com/in/anasauras">
