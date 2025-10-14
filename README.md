@@ -62,8 +62,32 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ### Project Portfolio 
 
-
 ---
+
+
+### 👽 Cyber Metrics
+<div align="center">
+    <table>
+        <tr>
+            <td align="right" valign="bottom" style="padding-right: 20px;">
+                <a href="https://tryhackme.com/p/anasauras"> 
+                    <img 
+                        src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" 
+                        alt="TryHackMe Badge" 
+                    />
+                </a>
+            </td>
+            <td align="left" valign="top" style="padding-left: 20px;">
+                <img 
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" 
+                    alt="Top Languages" 
+                />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br> 
 
 ### 🌐 Connect With Me
 
@@ -80,19 +104,6 @@ Want to join me on this journey? Let's build something amazing together. 🔥
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
----
-
-
-### 👽 Cyber Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
-  
-  <a href="https://tryhackme.com/p/anasauras"> 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
 
 
 
