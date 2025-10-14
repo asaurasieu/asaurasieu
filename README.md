@@ -42,7 +42,7 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch,vue,pandas,numpy&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
   </a>
