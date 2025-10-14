@@ -26,31 +26,6 @@ My ultimate goal? Fusing my technical skills with my analytical mindset to contr
 
 Want to join me on this journey? Let's build something amazing together. 🔥
 
-<div align="center">
-  <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
-</div>
-
----
-### 👽 Cyber Metrics
-<p align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&langs_count=6" 
-        alt="Top Languages" 
-        width="45%" 
-        style="display: inline-block;"
-    />
-    
-    <a href="https://tryhackme.com/p/anasauras" style="display: inline-block;"> 
-        <img 
-            src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" 
-            alt="TryHackMe Badge" 
-            width="45%" 
-            style="display: inline-block;"
-        />
-    </a>
-</p>
-
----
 
 ### 👾 Languages & Frameworks 
 
@@ -74,6 +49,27 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 
+### 👽 Cyber Metrics
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img 
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasaurasieu&layout=compact&theme=dark&langs_count=6" 
+                    alt="Top Languages" 
+                />
+            </td>
+           <td align="center">
+                <a href="https://tryhackme.com/p/anasauras"> 
+                    <img 
+                        src="https://tryhackme-badge.get-into.tech/anasauras" 
+                        alt="TryHackMe Badge" 
+                    />
+                </a>
+            </td>
+</div>
+---
+
 ### Project Portfolio 
 
 
@@ -94,6 +90,10 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   </a>
 </p>
 
+
+<div align="center">
+  <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
+</div>
 
 
 
