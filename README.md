@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 👋 Hey there! I'm Ana, a Spanish Computer Scientist  specializing in Artificial Intelligence and Cybersecurity. I love technology in general and a good challenge. I'm here to sharpen my technical skills and become the professional I've always dreamed of being.
 
@@ -26,9 +25,9 @@ My ultimate goal? Fusing my technical skills with my analytical mindset to contr
 
 Want to join me on this journey? Let's build something amazing together. 🔥
 
----
-<br>
+<br> 
 
+---
 
 ### 👾 Languages & Frameworks 
 
@@ -52,19 +51,10 @@ Want to join me on this journey? Let's build something amazing together. 🔥
 
 ---
 
-### 👽 Cyber Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
-  
-  <a href="https://tryhackme.com/p/anasauras"> 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
-  </a>
-</p>
----
-
 ### Project Portfolio 
 
 
+---
 
 ### 🌐 Connect With Me
 
@@ -79,6 +69,18 @@ Want to join me on this journey? Let's build something amazing together. 🔥
   
   <a href="mailto:anasauras4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
+---
+
+
+### 👽 Cyber Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" alt="Top Languages" />
+  
+  <a href="https://tryhackme.com/p/anasauras"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
