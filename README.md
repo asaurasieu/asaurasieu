@@ -16,10 +16,6 @@
 
 ---
 
-<div align="center">
-  <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
-</div>
-
 <br>
 
 👋 Hey there! I'm Ana, a Spanish Computer Scientist  specializing in Artificial Intelligence and Cybersecurity. I love technology in general and a good challenge. I'm here to sharpen my technical skills and become the professional I've always dreamed of being.
@@ -31,6 +27,10 @@ When I'm not glued to a computer screen, I'm perfecting my Karate techniques, on
 My ultimate goal? Fusing my technical skills with my analytical mindset to contribute to a safer, smarter digital world. 😜
 
 Want to join me on this journey? Let's build something amazing together. 🔥
+
+<div align="center">
+  <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
+</div>
 
 <br> 
 
