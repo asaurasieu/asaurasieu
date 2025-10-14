@@ -21,7 +21,7 @@ You'll find me experimenting, learning, sharing what I know, and yeah, breaking 
 
 When I'm not glued to a computer screen, I'm perfecting my Karate techniques, on a tennis court, catching waves on the south coast of France, or rewatching classic sci-fi movies for the hundredth time.
 
-My ultimate goal? Fusing my technical skills with my analytical mindset to contribute to a safer, smarter digital world. 😜
+My ultimate goal? Contribute to a safer, smarter digital world. 😜
 
 Want to join me on this journey? Let's build something amazing together. 🔥
 
