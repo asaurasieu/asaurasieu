@@ -68,16 +68,6 @@ Want to join me on this journey? Let's build something amazing together.
 <div align="center">
     <table>
         <tr>
-            <td align="center" valign="middle" style="padding-right: 30px;">
-                <p align="center">
-                    <a href="https://tryhackme.com/p/anasauras"> 
-                        <img 
-                            src="https://tryhackme-badges.s3.amazonaws.com/asauras.png" 
-                            alt="TryHackMe Badge" 
-                        />
-                    </a>
-                </p>
-            </td>
             <td align="center" valign="top" style="padding-left: 30px;">
                 <img 
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" 
