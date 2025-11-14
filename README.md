@@ -65,14 +65,18 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 
 **🔧 Tech Stack:**  
 `React Native` • `Android Studio` • `Firebase` • `Google Maps API` • `Google Places API` •  
-`WebSockets` • `Python` • `OpenCV` • `PyTorch` • `ResNet18`
+`Madrid Real Street Database` • `WebSockets` • `Python` • `OpenCV` • `PyTorch` • `ResNet18` •  
+`Greymask Generation`
 
 **✨ Key Features:**  
 - Real-time parking spot classification using a custom-trained **ResNet18** model  
-- Low-latency streaming pipeline using **WebSockets** for live frame processing  
-- Integrated **Google Maps** interface for navigation to nearest available spots  
-- Firebase for authentication, user data storage & cloud-integrated app features  
-- Mobile-friendly UI optimized for performance on mid-range devices  
+- **Greymask generation** pipeline to normalize frames and improve detection accuracy  
+- Low-latency streaming using **WebSockets** for continuous video frame processing  
+- Integrated **Madrid’s geospatial street database** for real location/street search  
+- Users can search any Madrid street and instantly view nearby parking availability  
+- Firebase for authentication, cloud storage, analytics, and session management  
+- Modern, responsive **React Native** UI optimized for Android devices  
+  
 
 **📂 Repositories:**  
 - **Backend :** [PlaceToPark-WebSocket](https://github.com/asaurasieu/PlaceToPark-WebSocket.git)  
@@ -80,8 +84,25 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 
 ---
 
----
+### 🧠 DebateChatbot — RAG-Based Interactive Debate Assistant
+A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
 
+**🔧 Tech Stack:**  
+`Python` • `OpenAI API` • `Retrieval-Augmented Generation (RAG)` •  
+`HuggingFace Datasets` • `Vector Search` •  
+`React` • `Node-based Graph Visualization` • `REST APIs`
+
+**✨ Key Features:**  
+- Full **RAG pipeline** including embedding generation, vector search, and context retrieval  
+- Integration with the **OpenAI API** to generate structured debate responses  
+- Accurate information retrieval through a curated **HuggingFace** dataset  
+- Dynamic **graph-based frontend** that visualizes conversation flow as nodes and edges  
+- Modular backend allowing dataset updates, prompt tuning, and scalable context injection  
+
+**📂 Repository:**  
+- **DebateChatbot (RAG + OpenAI + Graph UI):** [Debate-Chatbot](https://github.com/asaurasieu/Debate-Chatbot.git)
+
+---
 
 ### 👽 Cyber Metrics
 <div align="center">
