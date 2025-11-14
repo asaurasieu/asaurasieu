@@ -82,7 +82,6 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 - **Backend :** [PlaceToPark-WebSocket](https://github.com/asaurasieu/PlaceToPark-WebSocket.git)  
 - **Frontend :** [PlaceToPark-ReactApp](https://github.com/asaurasieu/PlaceToPark-ReactApp.git)
 
--
 
 ### 🧠 DebateChatbot — RAG-Based Interactive Debate Assistant
 A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
