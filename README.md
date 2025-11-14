@@ -60,6 +60,25 @@ Want to join me on this journey? Let's build something amazing together.
 ---
 
 ### Main Projects 
+### 🚗 PlaceToPark — Real-Time Parking Availability System
+A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
+
+**🔧 Tech Stack:**  
+`React Native` • `Android Studio` • `Firebase` • `Google Maps API` • `Google Places API` •  
+`WebSockets` • `Python` • `OpenCV` • `PyTorch` • `ResNet18`
+
+**✨ Key Features:**  
+- Real-time parking spot classification using a custom-trained **ResNet18** model  
+- Low-latency streaming pipeline using **WebSockets** for live frame processing  
+- Integrated **Google Maps** interface for navigation to nearest available spots  
+- Firebase for authentication, user data storage & cloud-integrated app features  
+- Mobile-friendly UI optimized for performance on mid-range devices  
+
+**📂 Repositories:**  
+- **Backend :** [PlaceToPark-WebSocket](https://github.com/asaurasieu/PlaceToPark-WebSocket.git)  
+- **Frontend :** [PlaceToPark-ReactApp](https://github.com/asaurasieu/PlaceToPark-ReactApp.git)
+
+---
 
 ---
 
