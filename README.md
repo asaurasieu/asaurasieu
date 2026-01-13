@@ -6,23 +6,11 @@
 
 <br>
 
-Hey there! I'm Ana, a Spanish Computer Scientist  specializing in Artificial Intelligence and Cybersecurity. I love technology in general and a good challenge. I'm here to sharpen my technical skills and become the professional I've always dreamed of being.
+I am a Spanish Computer Scientist dedicated to the world of Artificial Intelligence and Cybersecurity. My professional focus lies in building resilient, intelligent systems and tackling the complex technical challenges that define our modern digital landscape. I am driven by a commitment to continuous learning and the pursuit of technical excellence.
 
-You'll find me experimenting, learning, sharing what I know, and yeah, breaking things occasionally (it's all part of the process) ️
+Core Mission: To architect a safer, smarter, and more secure digital world.
 
-When I'm not glued to a computer screen, I'm perfecting my karate techniques, on a tennis court, catching waves on the south coast of France, or rewatching classic sci-fi movies for the hundredth time.
-
-My ultimate goal? Contribute to a safer, smarter digital world.
-
-Want to join me on this journey? Let's build something amazing together.  
-
-<br> 
-
-<div align="center">
-  <img src="giphy.gif" alt="Matt Damon as Mark Watney in The Martian in his habitat" width="400"/>
-</div>
-
-<br> 
+I am always open to collaborating on innovative projects. Let’s connect and build something impactful.
 
 ---
 ## Tech Stack 
