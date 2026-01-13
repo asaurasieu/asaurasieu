@@ -80,24 +80,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 - **DebateChatbot (RAG + OpenAI + Graph UI):** [Debate-Chatbot](https://github.com/asaurasieu/Debate-Chatbot.git)
 
 ---
-
-### Cyber Metrics
-<div align="center">
-    <table>
-        <tr>
-            <td align="center" valign="top" style="padding-left: 30px;">
-                <img 
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&langs_count=6" 
-                    alt="Top Languages" 
-                />
-            </td>
-        </tr>
-    </table>
-</div>
-
-<br> 
-
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://es.linkedin.com/in/anasauras">
