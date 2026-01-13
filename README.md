@@ -4,8 +4,6 @@
   </a>
 </div>
 
----
-
 <br>
 
 Hey there! I'm Ana, a Spanish Computer Scientist  specializing in Artificial Intelligence and Cybersecurity. I love technology in general and a good challenge. I'm here to sharpen my technical skills and become the professional I've always dreamed of being.
