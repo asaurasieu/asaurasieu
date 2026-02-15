@@ -21,7 +21,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
   Active research and hands-on practice in network security, critical systems security and information risk management 
 
 - 🧠 **AI Engineering**  
-  Deepening expertise in deep learning frameworks, computer vision pipelines, and production ready ML systems
+  Deepening my expertise in deep learning frameworks, computer vision pipelines, and production ready ML systems
 
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
