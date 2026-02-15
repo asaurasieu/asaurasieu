@@ -16,7 +16,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 -  
 -  
 - 
----
+
 ### Main Projects 
 ### PlaceToPark — Real-Time Parking Availability System
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
@@ -59,7 +59,6 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 **Repository:**  
 - **DebateChatbot (RAG + OpenAI + Graph UI):** [Debate-Chatbot](https://github.com/asaurasieu/Debate-Chatbot.git)
 
----
 ## Tech Stack 
 ### Languages & Frameworks 
 
@@ -83,13 +82,10 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
   </a>
 </p>
 
----
-
 ## Contribution Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
 
----
 ### Connect With Me
 
 <p align="center">
