@@ -20,7 +20,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 <br>
 
-**Currently Working On**
+## Currently Working On 
 - 🧠 Exploring advanced computer vision techniques for urban applications
 - 🔐 Building secure AI systems with privacy-first architecture  
 - 📱 Developing intelligent mobile solutions with React Native
@@ -33,11 +33,10 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 <br>
 
-**Featured Projects**
+## Featured Projects**
 ### PlaceToPark — Real-Time Parking Availability System
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
 
-**Tech Stack:**  
 `React Native` • `Android Studio` • `Firebase` • `Google Maps API` • `Google Places API` •  
 `Madrid Real Street Database` • `WebSockets` • `Python` • `OpenCV` • `PyTorch` • `ResNet18` •  
 `Greymask Generation`
@@ -59,8 +58,7 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 
 ### DebateChatbot — RAG-Based Interactive Debate Assistant
 A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
-
-**Tech Stack:**  
+ 
 `Python` • `OpenAI API` • `Retrieval-Augmented Generation (RAG)` •  
 `HuggingFace Datasets` • `Vector Search` •  
 `React` • `Node-based Graph Visualization` • `REST APIs`
@@ -83,7 +81,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 <br>
 
-**Tech Stack** 
+## Tech Stack
 ### Languages & Frameworks 
 
 <p align="center">
@@ -95,7 +93,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
   </a>
 </p>
 
-**Tools, Platforms & Cloud**
+## Tools, Platforms & Cloud
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -114,10 +112,8 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 <br>
 
-**Activity**
-
+## Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
-
 
 <br>
 
@@ -144,7 +140,6 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
   </a>
 </p>
 
----
 
 
 
