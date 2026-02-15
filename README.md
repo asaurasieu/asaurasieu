@@ -12,7 +12,15 @@ Core Mission: To architect a safer, smarter, and more secure digital world.
 
 I am always open to collaborating on innovative projects. Let’s connect and build something impactful.
 
-## 🚀 Currently Working On
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4fb1ba&height=2"/>
+</p>
+
+<br>
+
+## Currently Working On
 - 🧠 Exploring advanced computer vision techniques for urban applications
 - 🔐 Building secure AI systems with privacy-first architecture  
 - 📱 Developing intelligent mobile solutions with React Native
@@ -25,7 +33,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 <br>
 
-### Featured Projects
+## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
 
