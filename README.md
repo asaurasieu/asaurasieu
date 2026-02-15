@@ -55,7 +55,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 ## Tech Stack
 ### Languages & Frameworks 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
     <br>
@@ -66,7 +66,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 ## Tools, Platforms & Cloud
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
     <br>
