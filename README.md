@@ -14,15 +14,11 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 ## Currently Working On 
 
-<div align="center">
-
-![Dissertation](https://img.shields.io/badge/🎓_Master's_Dissertation-Multiclass_Self--Supervised_Contrastive_Learning_IDS_for_CAN_Bus-4fb1ba?style=for-the-badge)
-
-![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-Network_Security_&_Critical_Systems-4fb1ba?style=for-the-badge)
-
-![AI Engineering](https://img.shields.io/badge/🧠_AI_Engineering-Deep_Learning_&_Computer_Vision_Pipelines-4fb1ba?style=for-the-badge)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Master's_Dissertation-Multiclass_Self--Supervised_IDS-4fb1ba?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Research-Network_&_Systems_Security-4fb1ba?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Engineering-Deep_Learning_&_CV-4fb1ba?style=flat-square" />
+</p>
 
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
