@@ -33,7 +33,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 <br>
 
-## Featured Projects**
+## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
 
