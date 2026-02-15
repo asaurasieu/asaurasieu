@@ -15,7 +15,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 ## Currently Working On 
 
 - 🎓  **Master's Dissertation**  
-  Developing a self-supervised contrastive learning Intrusion Detection System (IDS) for Controller Area Network (CAN) bus security
+  Developing a multiclassification self-supervised contrastive learning Intrusion Detection System (IDS) for Controller Area Network (CAN) bus security
 
 - 🔐 **Cybersecurity Domains**  
   Active research and hands-on practice in network security, critical systems security and information risk management 
