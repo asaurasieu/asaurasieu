@@ -13,9 +13,15 @@ Core Mission: To architect a safer, smarter, and more secure digital world.
 I am always open to collaborating on innovative projects. Let’s connect and build something impactful.
 
 ## Currently Working On 
-- Expanding my knowledge in the field of deep learning and computer vision
 
+-  **Master's Dissertation**  
+  Developing a self-supervised contrastive learning Intrusion Detection System (IDS) for Controller Area Network (CAN) bus security
 
+- 🔐 **Cybersecurity Domains**  
+  Active research and hands-on practice in network security, critical systems security and information risk management 
+
+- 🧠 **AI Engineering**  
+  Deepening expertise in deep learning frameworks, computer vision pipelines, and production ready ML systems
 
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
