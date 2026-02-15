@@ -86,7 +86,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 ---
 ## GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asaurasieu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9&count_private=true)](https://github.com/asaurasieu)
 
 ## Contribution Activity
 
