@@ -24,27 +24,46 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
   Deepening my expertise in deep learning frameworks, computer vision pipelines, and production ready ML systems
 
 ## Featured Projects
-
-<div align="left">
-  
 ### PlaceToPark — Real-Time Parking Availability System
+
+<div align="center">
 
 [![PlaceToPark-ReactApp](https://img.shields.io/badge/Frontend-PlaceToPark--ReactApp-4fb1ba?style=for-the-badge&logo=react)](https://github.com/asaurasieu/PlaceToPark-ReactApp)
 [![PlaceToPark-WebSocket](https://img.shields.io/badge/Backend-PlaceToPark--WebSocket-4fb1ba?style=for-the-badge&logo=python)](https://github.com/asaurasieu/PlaceToPark-WebSocket)
 
-A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
+</div> 
 
+<div align="left">
+  
+A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
+  
+</div>
+
+<div align="center"> 
+  
 `React Native` • `Android Studio` • `Firebase` • `Google Maps API` • `Google Places API` •  
 `Madrid Real Street Database` • `WebSockets` • `Python` • `OpenCV` • `PyTorch` • `ResNet18` •  
 `Greymask Generation`
+
+</div> 
 
 <br>
 
 ### DebateChatbot — RAG-Based Interactive Debate Assistant
 
+<div align="center">
+  
 [![Debate-Chatbot](https://img.shields.io/badge/Repository-Debate--Chatbot-4fb1ba?style=for-the-badge&logo=github)](https://github.com/asaurasieu/Debate-Chatbot)
 
+</div> 
+
+<div align="left">
+  
 A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
+
+</div> 
+
+<div align="center">
  
 `Python` • `OpenAI API` • `Retrieval-Augmented Generation (RAG)` •  
 `HuggingFace Datasets` • `Vector Search` •  
@@ -55,7 +74,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 ## Tech Stack
 ### Languages & Frameworks 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
     <br>
@@ -66,7 +85,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 ## Tools, Platforms & Cloud
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
     <br>
