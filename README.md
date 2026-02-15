@@ -17,32 +17,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 -  
 -  
 - 
-
-## Tech Stack 
-### Languages & Frameworks 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
-  </a>
-</p>
-
-### Tools, Platforms & Cloud
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,sublime,vscode&theme=dark" />
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
-  </a>
-</p>
-
 ---
-
 ### Main Projects 
 ### PlaceToPark — Real-Time Parking Availability System
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
@@ -86,6 +61,42 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 - **DebateChatbot (RAG + OpenAI + Graph UI):** [Debate-Chatbot](https://github.com/asaurasieu/Debate-Chatbot.git)
 
 ---
+## Tech Stack 
+### Languages & Frameworks 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
+  </a>
+</p>
+
+### Tools, Platforms & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gcp,git,github,sublime,vscode&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaurasieu&theme=dark&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asaurasieu.asaurasieu)
+
+---
 ### Connect With Me
 
 <p align="center">
@@ -103,15 +114,6 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaurasieu&theme=dark&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba)
-
 
 
 
