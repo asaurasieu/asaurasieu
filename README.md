@@ -84,13 +84,10 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 </p>
 
 ---
-## GitHub Achievements
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9&count_private=true)](https://github.com/asaurasieu)
 
 ## Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asaurasieu&custom_title=Ana's%20Contribution%20Graph&bg_color=0D1117&color=4fb1ba&line=4fb1ba&point=FFFFFF&area_color=4fb1ba&title_color=4fb1ba&area=true)](https://github.com/asaurasieu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
 
 ---
 ### Connect With Me
