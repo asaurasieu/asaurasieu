@@ -84,16 +84,13 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 </p>
 
 ---
+## GitHub Achievements
 
-## 📊 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=asaurasieu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)
+## Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaurasieu&theme=dark&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asaurasieu.asaurasieu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asaurasieu&custom_title=Ana's%20Contribution%20Graph&bg_color=0D1117&color=4fb1ba&line=4fb1ba&point=FFFFFF&area_color=4fb1ba&title_color=4fb1ba&area=true)](https://github.com/asaurasieu)
 
 ---
 ### Connect With Me
