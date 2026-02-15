@@ -29,8 +29,8 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
   
 ### PlaceToPark — Real-Time Parking Availability System
 
-[![PlaceToPark Frontend](https://github-readme-stats.vercel.app/api/pin/?username=asaurasieu&repo=PlaceToPark-ReactApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)](https://github.com/asaurasieu/PlaceToPark-ReactApp)
-[![PlaceToPark Backend](https://github-readme-stats.vercel.app/api/pin/?username=asaurasieu&repo=PlaceToPark-WebSocket&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)](https://github.com/asaurasieu/PlaceToPark-WebSocket)
+[![PlaceToPark-ReactApp](https://img.shields.io/badge/Frontend-PlaceToPark--ReactApp-4fb1ba?style=for-the-badge&logo=react)](https://github.com/asaurasieu/PlaceToPark-ReactApp)
+[![PlaceToPark-WebSocket](https://img.shields.io/badge/Backend-PlaceToPark--WebSocket-4fb1ba?style=for-the-badge&logo=python)](https://github.com/asaurasieu/PlaceToPark-WebSocket)
 
 A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
 
@@ -42,7 +42,7 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 
 ### DebateChatbot — RAG-Based Interactive Debate Assistant
 
-[![DebateChatbot](https://github-readme-stats.vercel.app/api/pin/?username=asaurasieu&repo=Debate-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)](https://github.com/asaurasieu/Debate-Chatbot)
+[![Debate-Chatbot](https://img.shields.io/badge/Repository-Debate--Chatbot-4fb1ba?style=for-the-badge&logo=github)](https://github.com/asaurasieu/Debate-Chatbot)
 
 A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
  
