@@ -14,14 +14,15 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 ## Currently Working On 
 
-- 🎓  **Master's Dissertation**  
-  Developing a multiclassification self-supervised contrastive learning Intrusion Detection System (IDS) for Controller Area Network (CAN) bus security
+<div align="center">
 
-- 🔐 **Cybersecurity Domains**  
-  Active research and hands-on practice in network security, critical systems security and information risk management 
+![Dissertation](https://img.shields.io/badge/🎓_Master's_Dissertation-Multiclass_Self--Supervised_Contrastive_Learning_IDS_for_CAN_Bus-4fb1ba?style=for-the-badge)
 
-- 🧠 **AI Engineering**  
-  Deepening my expertise in deep learning frameworks, computer vision pipelines, and production ready ML systems
+![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-Network_Security_&_Critical_Systems-4fb1ba?style=for-the-badge)
+
+![AI Engineering](https://img.shields.io/badge/🧠_AI_Engineering-Deep_Learning_&_Computer_Vision_Pipelines-4fb1ba?style=for-the-badge)
+
+</div>
 
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
