@@ -96,7 +96,15 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
   </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaurasieu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&icon_color=4fb1ba&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaurasieu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4fb1ba&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaurasieu&theme=dark&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba)
 
 
 
