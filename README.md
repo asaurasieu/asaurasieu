@@ -16,7 +16,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 <p align="left">
   <img src="https://img.shields.io/badge/Master's_Dissertation-Multiclass_Self--Supervised_IDS_CAN--BUS-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network_Security_&_Critical_Systems-Information_Risk_Management-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/CyberSecurity_Domains-Network_Security-_Critical_Systems-Information_Risk_Management-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Engineering-Deep_Learning_&_CV-brightgreen?style=flat-square" />
 </p>
 
