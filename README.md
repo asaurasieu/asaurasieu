@@ -13,10 +13,7 @@ Core Mission: To architect a safer, smarter, and more secure digital world.
 I am always open to collaborating on innovative projects. Let’s connect and build something impactful.
 
 ## Currently Working On 
-
-- 🧠 Exploring advanced computer vision techniques for urban applications
-- 🔐 Building secure AI systems with privacy-first architecture  
-- 📱 Developing intelligent mobile solutions with React Native
+- Expanding my knowledge in the field of deep learning and computer vision
 
 
 
