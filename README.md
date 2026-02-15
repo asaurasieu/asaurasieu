@@ -25,7 +25,7 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 
 ## Featured Projects
 
-<div align="center">
+<div align="left">
   
 ### PlaceToPark — Real-Time Parking Availability System
 
