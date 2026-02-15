@@ -21,9 +21,6 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 <br>
 
 ## Currently Working On 
-- 🧠 Exploring advanced computer vision techniques for urban applications
-- 🔐 Building secure AI systems with privacy-first architecture  
-- 📱 Developing intelligent mobile solutions with React Native
 
 <br>
 
@@ -32,6 +29,12 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 </p>
 
 <br>
+
+- 🧠 Exploring advanced computer vision techniques for urban applications
+- 🔐 Building secure AI systems with privacy-first architecture  
+- 📱 Developing intelligent mobile solutions with React Native
+
+
 
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
@@ -113,7 +116,11 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 <br>
 
 ## Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
+<div align="center" >
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
+
+</div>
 
 <br>
 
