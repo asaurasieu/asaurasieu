@@ -114,9 +114,13 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 <br>
 
-## Contribution Activity
+<h2 align="center">Contribution Activity</h2>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
+
+</div>
 
 <br>
 
