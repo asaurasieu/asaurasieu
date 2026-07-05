@@ -64,7 +64,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 <div align="center">
  
 `Python` • `OpenAI API` • `Retrieval-Augmented Generation (RAG)` •  
-`HuggingFace Datasets` • `Vector Search` •  
+`HuggingFace Datasets` • `Index Search` •  
 `React` • `Node-based Graph Visualization` • `REST APIs`
 
 </div>
