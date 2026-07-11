@@ -6,21 +6,6 @@
 
 <br>
 
-I am a Spanish Computer Scientist dedicated to the world of Artificial Intelligence and Cybersecurity. My professional focus lies in building resilient, intelligent systems and tackling the complex technical challenges that define our modern digital landscape. I am driven by a commitment to continuous learning and the pursuit of technical excellence.
-
-Core Mission: To architect a safer, smarter, and more secure digital world.
-
-I am always open to collaborating on innovative projects. Let’s connect and build something impactful.
-
-## Currently Working On 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Master's_Dissertation-Multiclass_SSL_IDS_CAN--BUS-4fb1ba?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cyber_Security-Network_Security,_Critical_Systems_&_Information_Risk_Management-4fb1ba?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Engineering-Deep_Learning,_CV_&_ML_Production_Ready_Systems-4fb1ba?style=flat-square" />
-</p>
-
-
 ## Featured Projects
 ### PlaceToPark — Real-Time Parking Availability System
 
@@ -30,12 +15,6 @@ I am always open to collaborating on innovative projects. Let’s connect and bu
 [![PlaceToPark-WebSocket](https://img.shields.io/badge/Backend-PlaceToPark--WebSocket-4fb1ba?style=for-the-badge&logo=python)](https://github.com/asaurasieu/PlaceToPark-WebSocket)
 
 </div> 
-
-<div align="left">
-  
-A mobile app that uses **deep learning**, **computer vision**, and **real-time data streaming** to detect on-street parking availability in dense urban areas like Madrid. Designed as a scalable alternative to traditional sensor-based or IoT-heavy parking infrastructures.
-  
-</div>
 
 <div align="center"> 
   
@@ -57,7 +36,7 @@ A mobile app that uses **deep learning**, **computer vision**, and **real-time d
 
 <div align="left">
   
-A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Although presented as a group project, the core architecture, implementation, and integration were primarily developed by me.
+A retrieval-augmented generation chatbot designed to debate, answer complex questions, and reference information retrieved from a custom HuggingFace dataset. Presented as a group project.
 
 </div> 
 
@@ -74,10 +53,9 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,react,ros,sklearn,pytorch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i= css,html,js,py,react,sklearn,pytorch&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,raspberrypi,windows,apple,npm,opencv&theme=dark" />
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=yolo,huggingface,yaml" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,apple,opencv&theme=dark" />
   </a>
 </p>
 
@@ -85,7 +63,7 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,vim,aws,azure,bash,figma,firebase,flask,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,azure,figma,firebase,flask&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=gcp,git,github,sublime,vscode&theme=dark" />
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,canva,cursor,perplexity,claudeai,googlecolaboratory" />
@@ -99,22 +77,6 @@ A retrieval-augmented generation chatbot designed to debate, answer complex ques
   [![GitHub Streak](https://streak-stats.demolab.com/?user=asaurasieu&theme=tokyonight&hide_border=true&background=0D1117&ring=4fb1ba&fire=4fb1ba&currStreakLabel=4fb1ba&sideLabels=4fb1ba&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/asaurasieu)
 
 </div>
-
-### Connect With Me
-
-<p align="center">
-  <a href="https://es.linkedin.com/in/anasauras">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/ana_s_f">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
-  <a href="mailto:anasauras4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
 
 
 
