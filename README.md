@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&size=30&letterSpacing=0.5px&duration=8010&pause=1000&color=%2353565A&width=600&center=true&lines=Artificial+Intelligence+%2F+CyberSecurity" alt="Typing SVG" />
-  </a>
-</div>
-
 <br>
 
 ## Tech Stack
